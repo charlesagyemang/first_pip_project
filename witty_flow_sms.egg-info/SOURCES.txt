@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+witty-flow-sms/__init__.py
+witty_flow_sms.egg-info/PKG-INFO
+witty_flow_sms.egg-info/SOURCES.txt
+witty_flow_sms.egg-info/dependency_links.txt
+witty_flow_sms.egg-info/top_level.txt

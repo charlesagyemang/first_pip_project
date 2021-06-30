@@ -11,7 +11,7 @@ with open("app_name.txt", "r") as name:
 
 
 setuptools.setup(
-     name='finneynie',
+     name='witty_flow_sms',
      version=version,
      author="Charles Opoku-Agyemang",
      author_email="micnkru@gmail.com",

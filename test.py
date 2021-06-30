@@ -1,6 +1,6 @@
-import json
-# import finneynie
+# import json
+import witty_flow_sms
 
-# print (FinneyNie.say_my_name("Brafinney"))
+print(test.test("keli"))
 
-print(json.dumps({"hey":"memmss"}))
+# print(json.dumps({"hey":"memmss"}))
