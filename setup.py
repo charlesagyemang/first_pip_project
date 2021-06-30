@@ -13,7 +13,6 @@ with open("app_name.txt", "r") as name:
 setuptools.setup(
      name='finneynie',
      version=version,
-     scripts=[app_name] ,
      author="Charles Opoku-Agyemang",
      author_email="micnkru@gmail.com",
      description="A Docker and AWS utility package",
