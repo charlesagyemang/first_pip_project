@@ -4,7 +4,7 @@
 
 #### Via Pip
 ```python
-  pip install witty_flow_sms
+ pip install witty-flow-sms
 ```
 
 ### Step 2: Initialize
