@@ -13,7 +13,7 @@ setuptools.setup(
      description="A Docker and AWS utility package",
      long_description=long_description,
      long_description_content_type="text/markdown",
-     url="https://github.com/KehillahGhanaLimited/gold-api",
+     url="https://github.com/charlesagyemang/first_pip_project",
      packages=setuptools.find_packages(),
      classifiers=[
          "Programming Language :: Python :: 3",
