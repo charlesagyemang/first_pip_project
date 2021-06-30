@@ -1,6 +1,6 @@
-### WITTY FLOW SMS NPM PACKAGE
+### WITTY FLOW SMS PIP PACKAGE
 
-#### Step 1: Install The Package Via Yarn Or Npm
+#### Step 1: Install The Package Via Pip
 
 #### Via Yarn
 ```python
