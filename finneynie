@@ -1,0 +1,9 @@
+#!/usr/bin/env python
+
+echo "hey there, this is my first pip package"
+
+
+class FinneyNie():
+
+    def self.say_my_name(name):
+        print(f'Hey Your Name Is {name}')
