@@ -3,11 +3,17 @@ import setuptools
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
+with open("version.txt", "r") as file:
+    version = file.read().strip()
+
+with open("app_name.txt", "r") as name:
+    app_name = name.read().strip()
+
 
 setuptools.setup(
      name='finneynie',
-     version='0.1',
-     scripts=['finneynie'] ,
+     version=version,
+     scripts=[app_name] ,
      author="Charles Opoku-Agyemang",
      author_email="micnkru@gmail.com",
      description="A Docker and AWS utility package",

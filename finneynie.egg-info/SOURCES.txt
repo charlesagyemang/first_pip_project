@@ -1,0 +1,8 @@
+LICENSE
+README.md
+finneynie
+setup.py
+finneynie.egg-info/PKG-INFO
+finneynie.egg-info/SOURCES.txt
+finneynie.egg-info/dependency_links.txt
+finneynie.egg-info/top_level.txt
