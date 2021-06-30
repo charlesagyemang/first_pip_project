@@ -1,4 +1,4 @@
-import requests
+import requests #type: ignore
 
 class WittyFlowSms:
 
@@ -13,7 +13,7 @@ class WittyFlowSms:
         return self.app_secret
 
     def send_sms(self, phone, to, message, is_flash=False):
-        
+
         body_to_send = {
             "from": f"{to}",
             "to":  f"233{phone[1:]}",
