@@ -2,7 +2,7 @@
 
 #### Step 1: Install The Package Via Pip
 
-#### Via Yarn
+#### Via Pip
 ```python
   pip install witty_flow_sms
 ```
