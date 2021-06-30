@@ -16,8 +16,13 @@ task :cred do
 end
 
 task :run do
-  `chmod +x #{@app_name}`
+  `rm -rf build dist finneynie.egg-info`
   `python3 setup.py bdist_wheel`
+end
+
+task :clean do
+  `rm -rf build dist finneynie.egg-info`
+  puts `git add . && git commit -am "cleanup" && git push origin master`
 end
 
 task :install do
