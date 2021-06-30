@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: witty-flow-sms
-Version: 1.0.1
+Version: 1.0.2
 Summary: A Docker and AWS utility package
 Home-page: https://github.com/charlesagyemang/first_pip_project
 Author: Charles Opoku-Agyemang
@@ -19,7 +19,7 @@ License-File: LICENSE
 
 #### Via Pip
 ```python
-  pip install witty_flow_sms
+ pip install witty-flow-sms
 ```
 
 ### Step 2: Initialize
